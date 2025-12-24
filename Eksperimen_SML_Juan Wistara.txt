@@ -1,1 +1,1 @@
-https://dagshub.com/juanwistasiregar/Eksperimen_SML_Juan-Wistara.mlflow
+https://github.com/juanwistasiregar-debug/SMSML_Juan-Wistara.git
